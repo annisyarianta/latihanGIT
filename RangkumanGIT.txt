@@ -1,0 +1,43 @@
+Nama : Annisya Rianta Raudatuljannah
+Kelas : Platform and Web Developer
+
+Quiz 2 Analisis Materi Git
+
+- Git merupakan version control system gratis dan open source yang bertugas untuk mencatat seluruh perubahan file atau source code suatu project.
+
+Fitur-fitur yang terdapat pada Git, yaitu:
+1. Distributed System
+Git memungkinkan pengguna untuk bekerja secara bersamaan pada project yang sama dari seluruh dunia.
+
+2. Branching
+Membuat, menghapus atau menggabungkan branch akan lebih cepat, lancar dan tidak memakan banyak waktu.
+
+3. Open-source
+Git merupakan open-source karena  memberikan fleksibilitas untuk memodifikasi kode sumbernya sesuai dengan kebutuhan pengguna atau kebutuhan dari developer.
+
+4. Non-linear development
+Git memungkinkan pengguna dari seluruh dunia untuk melakukan operasi pada project dari jarak jauh. Seorang pengguna dapat mengambil bagian mana pun dari proyek dan melakukan operasi yang diperlukan dan kemudian memperbarui project lebih lanjut. Hal ini dapat dilakukan dengan non-linear development.
+
+5. Lightweight
+Git menyimpan semua data dari repository pusat ke repository local saat cloning selesai. Hal ini memungkinkan ada ratusan pengguna yang mengerjakan proyek yang sama dan karenanya data pada repository pusat akan sangat besar. Git memiliki fitur lossless compression data yang dapat mengompresi data menjadi sangat minim dan menyimpannya di repository local.
+
+6. Staging Area atau Index
+Git memiliki staging area, dengan begitu developer akan dapat memformat commit atau bisa juga membuatnya agar dapat di-review sebelum akhirnya diterapkan secara benar.
+
+7. GUI Tools
+Git menyediakan GUI tools, seperti GitKraken dan Sourcetree, untuk memudahkan penggunaan Git bagi pengguna yang kurang terbiasa dengan command line.
+
+Perintah dasar dalam Git, diantaranya :
+- git init : inisialisasi repository Git baru
+- git clone : kloning repository Git dari sumber yang ada
+- git add : menambah file ke indeks/staging area 
+- git commit : merekam perubahan ke repository Git
+- git push : mengupload perubahan ke repository Git yang terhubung
+- git pull : mengunduh perubahan dari repository Git yang terhubung
+- git status : melihat status file dalam direktori saat ini
+- git log : melihat riwayat perubahan dalam repository
+- git diff : melihat perbedaan antara versi saat ini dan versi sebelumnya
+- git branch : mengelola cabang (branch) dalam repository Git
+- git checkout : mengubah antar cabang atau mengambil versi tertentu dari repository
+- git merge : menggabungkan cabang atau perubahan ke cabang utama
+- git reset : menghapus perubahan dalam indeks Git
